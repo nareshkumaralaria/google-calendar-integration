@@ -50,6 +50,10 @@ node start
 ## Demo video
 
 
+https://github.com/nareshkumaralaria/google-calendar-integration/assets/57484597/9a2f5a66-9324-48da-ba99-0e06cf01d1b2
+
+
+
 ## Explanation of Code
 - The `GoogleCalendarInitView` endpoint (`/rest/v1/calendar/init`) starts the OAuth2 flow by redirecting the user to the Google login page to grant access to their calendar.
 
